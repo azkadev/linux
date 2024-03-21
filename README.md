@@ -1,21 +1,7 @@
-# Linux
+IyBMaW51eAoKCi0tLQoKIyMjIERlbW8KCi0tLQoKIyMjIEluc3RhbGwgTGli
+cmFyeQoKYGBgYmFzaApkYXJ0IHB1YiBhZGQgbGludXgKYGBgCgpvciBmbHV0
+dGVyCgpgYGBiYXNoCmRhcnQgcHViIGFkZCBsaW51eF9mbHV0dGVyCmBgYAog
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add linux
-```
-
-or flutter
-
-```bash
-dart pub add linux_flutter
-```
- 
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
